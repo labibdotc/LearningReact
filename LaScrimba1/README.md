@@ -1,4 +1,4 @@
-# Project#2 in Learn React (On Scrimba) by Bob Ziroll
+# My Project#2 in "LearnReact"@Scrimba by Bob Ziroll
 
 Quick start:
 
