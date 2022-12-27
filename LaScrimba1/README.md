@@ -1,4 +1,4 @@
-# co3dd4822a6a88477fb2a192d
+# Project#2 in Learn React (On Scrimba) by Bob Ziroll
 
 Quick start:
 
