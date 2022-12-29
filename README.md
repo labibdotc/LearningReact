@@ -3,8 +3,8 @@ This repository is dedicated to react projects with increasing complexity. Every
 
 # Projects in this repository
 ## #1 businessCard:
-![alt text](https://github.com/labibdotc/LearningReact/blob/main/businessCard/deliverable.png?raw=true)
+![alt text](https://github.com/labibdotc/LearningReact/blob/main/businessCard/deliverable.png?raw=true | width=100)
 
 ## #2 Airbnb-static:
-![alt text](https://github.com/labibdotc/LearningReact/blob/main/Airbnb-static/pic1.png?raw=true)
-![alt text](https://github.com/labibdotc/LearningReact/blob/main/Airbnb-static/pic2.png?raw=true)
+![alt text](https://github.com/labibdotc/LearningReact/blob/main/Airbnb-static/pic1.png?raw=true | width=100)
+![alt text](https://github.com/labibdotc/LearningReact/blob/main/Airbnb-static/pic2.png?raw=true | width=100)
