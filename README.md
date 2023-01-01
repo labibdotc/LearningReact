@@ -18,4 +18,4 @@ This repository is dedicated to react projects with increasing complexity. Every
 <img src="https://github.com/labibdotc/LearningReact/blob/main/Airbnb-Upgraded/deliverable.png?raw=true" width=300/>
 
 ## #5 Travel-Book:
-<img src="https://github.com/labibdotc/LearningReact/blob/main/travelBook/blob/main/deliverable.png?raw=true" width=300/>
+<img src="https://github.com/labibdotc/LearningReact/blob/main/TravelBook/deliverable.png?raw=true" width=300/>
